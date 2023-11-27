@@ -13,5 +13,5 @@ This is a super simple dev environment intended for Python FastAPI development. 
 - Clone this repo to your local machine
 - Open a terminal and navigate to the directory where you cloned the repo
 - Run `docker-compose up --build -d` to build and run the FastAPI application in detached mode
-- Open a browser and navigate to http://0.0.0.0:80 to see the app running
+- Open a browser and navigate to http://localhost to see the app running
 - Open the repo in your favorite IDE and begin coding!
